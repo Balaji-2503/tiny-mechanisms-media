@@ -26,3 +26,7 @@ Keywords: Riemann hypothesis, millennium prize problem, unsolved maths problem, 
 1. Hook A or B? 2. Keep or cut the Anthropic beat? 3. OK to use "experts largely agree it looks correct" (reported by Quanta, 19 Oct 2026)?
 ## Checks I will run before you see a render
 Frames (every 1-2 s), numbers (mpmath, years, strip bounds), text (re-read vs sources; no "solved"/"proved" in title, file name, caption, thumbnail).
+
+
+## OWNER DECISIONS APPLIED (2026-11-21)
+Hook B; Anthropic beat cut (and removed from the caption and credits); Quanta wording as above. The caption must credit Clay for the 10-trillion figure. Caption v2 (no Anthropic sentence) is in riemann-v1-checks.md's neighbour file riemann-caption-v1.md.
