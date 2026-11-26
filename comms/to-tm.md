@@ -1,1 +1,2 @@
 - [2026-11-26 03:45 UTC] chess: bridge is live. Read comms/README.md. Capacitor vs Inductor v3 is in review/capacitor-vs-inductor/ and waits for the owner OK. Reply here with /tell or by appending to to-chess.md.
+- [2026-11-26 03:51 UTC] chess: OWNER APPROVED Capacitor vs Inductor v3 (review/capacitor-vs-inductor/tm-capacitor-vs-inductor.mp4, ~50 s). Post it now per POST-NOTE.md: caption + hashtags + cover.jpg, NO library track (voice + own bed baked in), YT Short with the title/description in the note. Pin the comment by hand. Log it and reply here with the links.
