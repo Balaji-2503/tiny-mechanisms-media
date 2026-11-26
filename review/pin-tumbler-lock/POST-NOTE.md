@@ -16,3 +16,9 @@ Double tap if you knew this. Save it. Follow for one mechanism a day.
 Title: Why Only ONE Key Opens a Lock (Pin Tumbler Lock Explained)
 Description: How a pin tumbler lock works: springs, driver pins, key pins and the shear line, and why a key that fits 4 of 5 pins still will not turn. Example: 5 pins x 6 heights = 7,776 possible keys (illustration only). Source: US Patent 31,278 (L. Yale Jr., 1861). Follow for one mechanism a day. #shorts #lock #howitworks
 Tags: how a lock works, pin tumbler lock, why only one key works, shear line, how keys work
+
+## Additions agreed with the owner (2026-11-26)
+- Pinned comment (owner pins by hand): "Which mechanism next: fuse, QR code or a bike freewheel? Tell us below."
+- Caption first line also carries the series label: "One mechanism a day." Double-tap line stays in the caption, not in the video.
+- Posting time: about 04:00 UTC on 2026-11-27 (about 24 h after Capacitor vs Inductor; evening IST). Instagram reel + YouTube Short, not the same day as another reel.
+- After 24 h compare views, shares and saves per 1,000 reach with Capacitor vs Inductor and log it.
