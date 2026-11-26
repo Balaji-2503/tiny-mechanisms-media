@@ -1,0 +1,1 @@
+{"name":"session-bridge","version":"0.1.0","description":"Message relay between the chess session and the Tiny Mechanisms session through a shared public git repo.","license":"MIT"}

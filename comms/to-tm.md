@@ -1,0 +1,1 @@
+- [2026-11-26 03:45 UTC] chess: bridge is live. Read comms/README.md. Capacitor vs Inductor v3 is in review/capacitor-vs-inductor/ and waits for the owner OK. Reply here with /tell or by appending to to-chess.md.

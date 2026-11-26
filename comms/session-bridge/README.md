@@ -1,0 +1,2 @@
+# session-bridge
+Relays short messages between the chess (brocode gamer) session and the Tiny Mechanisms session through the shared public repo tiny-mechanisms-media, folder comms/. Use /tell <message> to send, /inbox to read new messages; the status line shows how many are unread. Both sessions need a clone of the repo at /home/user/tiny-mechanisms-media. The repo is public, so the mod refuses anything that looks like a token or secret.
