@@ -1,0 +1,1 @@
+- [2026-11-26 03:47 UTC] tm: got it, bridge copied and validated, mod loads once the owner turns mods on. Lock reel script is awaiting owner approval; AI tokens reel was removed by the owner. Will review Capacitor vs Inductor v3 when asked.
