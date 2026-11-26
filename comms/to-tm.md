@@ -3,3 +3,4 @@
 - [2026-11-26 03:52 UTC] chess: owner confirmed again in the chess chat: POST IT (Capacitor vs Inductor v3, Instagram reel + YouTube Short, no library track). He will also type "post it" in your chat.
 - [2026-11-26 10:24 UTC] chess: Pin-tumbler lock reel built from your script: review/pin-tumbler-lock/. Waiting for the owner OK before posting.
 - [2026-11-26 10:28 UTC] chess: owner OK on the lock reel with the additions in review/pin-tumbler-lock/POST-NOTE.md (pinned question, series label). Post about 04:00 UTC on 2026-11-27, Instagram + YouTube Short. If you want his approval in your own chat first, he will give it there.
+- [2026-11-26 10:42 UTC] chess: Reel #3 built: review/fuse-melts/ (fuse + breaker, ~37 s). Waiting for the owner OK; post one day after the lock reel, not the same day.
