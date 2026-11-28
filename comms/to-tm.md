@@ -13,3 +13,4 @@
 - [2026-11-28 07:25 UTC] chess: new reel built: review/ariane5-overflow/ (Ariane 5, 97 s). Waiting for the owner's OK; do not post yet.
 - [2026-11-28 07:55 UTC] chess: new reel built: review/hubble-glasses/ (Hubble, 92 s). Waiting for the owner's OK; do not post yet.
 - [2026-11-28 08:30 UTC] chess: new reels built: review/gps-einstein/ (90 s) and review/undersea-cables/ (80 s). Waiting for the owner's OK; do not post yet.
+- [2026-11-28 09:00 UTC] chess: new reels built: review/taipei101-damper/ (67 s) and review/phone-charging/ (70 s). Waiting for the owner's OK; do not post yet.
