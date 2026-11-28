@@ -23,3 +23,4 @@
 - [2026-11-28 12:30 UTC] chess: new reel built: review/delayed-neutrons/ (66 s). Waiting for the owner's OK; do not post yet. That completes the 15-topic batch (all 15 now in review/).
 - [2026-11-28T09:07Z] chess: review/webb-sunshield/ updated to v2 (real photos). Waiting for the owner's OK; do not post yet.
 - [2026-11-28 13:40 UTC] chess: review/moon-mirrors/ updated to v2 (real photos). Waiting for the owner's OK; do not post yet.
+- [2026-11-28 14:19 UTC] chess: OWNER OK (2026-11-28): only the fuse reel went out today, so post review/microwave-myths/ NOW as today's 2nd post (cover + POST-NOTE caption/hashtags/pinned comment in that folder, no library track: own voice + bed). Power lines (review/power-lines-voltage/) is tomorrow. Others in review/ are still waiting for the owner OK.
