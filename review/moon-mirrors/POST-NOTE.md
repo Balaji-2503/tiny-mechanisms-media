@@ -18,3 +18,5 @@ Pinned comment (owner pins by hand): "Did you know the Moon is moving away from 
 Title: There Are Mirrors on the Moon (and They Show It's Drifting Away)
 Description: Apollo 11 left a panel of 100 corner-cube reflectors on the Moon in 1969. Observatories fire lasers at it and time the round trip (about 2.5 s) to measure the distance to within about a millimetre. Decades of data show the Moon receding about 3.8 cm a year. #shorts #space #moon
 Tags: mirrors on the moon, lunar laser ranging, is the moon moving away, apollo 11 reflector, corner cube, retroreflector
+
+v2 2026-11-28: real photos added (NASA, public domain: as11-40-5948 Apollo 11 July 1969; as11-40-5942 carrying the mirror panel; Goddard e001957 laser ranging station 2010; as11-37-5551 the mirror panel), film grain; 67.6 s, 12.7 MB, -16.4 LUFS. Status still waiting for the owner OK.
