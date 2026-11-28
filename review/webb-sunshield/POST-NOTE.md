@@ -18,3 +18,5 @@ Pinned comment (owner pins by hand): "Would you have guessed five thin sheets be
 Title: How 5 Sheets Thinner Than a Hair Keep the Webb Telescope at −220 °C
 Description: Webb's tennis-court-sized sunshield is five Kapton layers (0.05 mm and 0.025 mm thick). Each layer is cooler than the one below, the vacuum gaps insulate, and wider gaps at the edges push heat out sideways. Modelled: about 110 °C on the Sun side, about −237 °C on the cold side. #shorts #space #jwst
 Tags: james webb telescope sunshield, how webb stays cold, jwst sunshield, space telescope, kapton, infrared telescope
+
+v2 2026-11-28: real photos added (all NASA, US-government public domain: sunshield test layers GSFC_20171208_Archive_e000964; Webb gold mirror, centre-of-curvature test GSFC_20171208_Archive_e000079; full-size test sunshield GSFC_20171208_Archive_e001023; launch 25 Dec 2021 NHQ202112250006, photo NASA/Chris Gunn), film grain; status still waiting for the owner's OK.
