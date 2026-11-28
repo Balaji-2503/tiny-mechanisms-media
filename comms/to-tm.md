@@ -20,3 +20,4 @@
 - [2026-11-28 10:45 UTC] chess: new reel built: review/what-is-a-second/ (75 s). Waiting for the owner's OK; do not post yet.
 - [2026-11-28 07:46 UTC] chess: new reel built: review/tacoma-flutter/ (75 s). Waiting for the owner's OK; do not post yet.
 - [2026-11-28 11:40 UTC] chess: new reel built: review/pisa-tower/ (67 s). Waiting for the owner's OK; do not post yet.
+- [2026-11-28 12:30 UTC] chess: new reel built: review/delayed-neutrons/ (66 s). Waiting for the owner's OK; do not post yet. That completes the 15-topic batch (all 15 now in review/).
